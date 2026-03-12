@@ -3,4 +3,6 @@ lista_zakupow={
     "warzywniak": ["marchew", "seler", "rukola"]
 }
 for sklep, produkty in lista_zakupow.items():
-    print( f"Idę do {sklep} i kupuję tam {produkty}")
+    sklep_wielka_lit = sklep.capitalize()
+    produkty_wielka_lit = [produkt.capitalize() for produkt in produkty]
+    print( f"Idę do {sklep_wielka_lit} i kupuję tam {produkty_wielka_lit}")
