@@ -1,6 +1,6 @@
 lista_zakupow={
-    "piekarnia": ["chleb", "pączek", "bułki"],
-    "warzywniak": ["marchew", "seler", "rukola"]
+    "piekarnia": ["chleb", "pączek", "bułki", "jagodzianki", "cynamonki"],
+    "warzywniak": ["marchew", "seler", "rukola", "sałata", "pomidory"]
 }
 
 suma_prod = 0
