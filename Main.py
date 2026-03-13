@@ -17,3 +17,4 @@ produkty_str = ", ".join(prod_supermkt)
 
 print(f"W sumie kupuję {suma_prod} produktów.")
 print(f"Z produktów z supermarketu: ({produkty_str}) zrobię naleśniki")
+print(f'Cynamonki będą na kolację')
